@@ -1,7 +1,7 @@
 """
 title: Anthropic Manifold Pipe
-authors: justinh-rahb and christian-taillon
-author_url: https://github.com/justinh-rahb
+authors: justinh-rahb and christian-taillon and soeren weber
+author_url: https://github.com/CMDren
 funding_url: https://github.com/open-webui
 version: 0.4.0
 required_open_webui_version: 0.3.17
