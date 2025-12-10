@@ -1,3 +1,4 @@
+#Attention: AI was involved!
 # Anthropic Manifold Pipe (Improved)
 
 Improved version of the [Anthropic Manifold Pipe](https://openwebui.com/f/justinrahb/anthropic) for [Open WebUI](https://github.com/open-webui/open-webui).
